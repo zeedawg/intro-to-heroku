@@ -4,7 +4,7 @@
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/Zeedawg/intro-to-heroku",
+  "repository": "https://github.com/zeedawg/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
   ]
